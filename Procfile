@@ -1,1 +1,1 @@
-worker: python -m igen
+worker: python -m main.py 
